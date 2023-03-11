@@ -5,4 +5,6 @@ public class LoginController {
     int newVar = 123;
 
     float d = 11.0f;
+
+    double db = 12;
 }
